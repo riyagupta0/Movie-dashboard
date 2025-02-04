@@ -12,7 +12,7 @@ Introducing Movie Dashboard, your ultimate destination for all things cinema. Di
 
 React.Js , TailwindCSS , OMDB API.
 
-## This project showcase my skills in Frontend Technology using ReactJS.
+#### This project showcases my skills in Frontend Technology using ReactJS.
 
 ## Available Scripts
 
