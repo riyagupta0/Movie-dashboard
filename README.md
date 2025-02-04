@@ -13,6 +13,21 @@ Introducing Movie Dashboard, your ultimate destination for all things cinema. Di
 React.Js , TailwindCSS , OMDB API.
 
 #### This project showcases my skills in Frontend Technology using ReactJS.
+![image](https://github.com/user-attachments/assets/e0494218-38ab-4b7e-8871-e0610ec3e574)
+You can search any movie with filter of year and type of video like movie, episodes, series. and Search for it.
+
+![image](https://github.com/user-attachments/assets/f56263a6-ea09-4b55-b4fc-a5c303da7874)
+
+Movie Details Page :
+![image](https://github.com/user-attachments/assets/b52d4877-1c0c-4b7b-9cf6-23464375a0ea)
+
+You can also review the movie with ratings:
+![image](https://github.com/user-attachments/assets/01565135-4386-47b1-a0b4-21db3ed61015)
+
+Dashboard Page where you can see your review and ratings from previous films.
+![image](https://github.com/user-attachments/assets/cf3fe655-7b6b-4be9-9e7f-4144510d4a8d)
+
+
 
 ## Available Scripts
 
