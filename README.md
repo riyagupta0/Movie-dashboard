@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Welcome to the Movie Dashboard App - Explore new Movies and Enjoy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Introducing Movie Dashboard, your ultimate destination for all things cinema. Dive into a seamless and interactive experience where you can explore, rate, and review your favorite movies. Built with the latest web technologies, this app ensures a responsive and engaging user interface, making your movie discovery journey both enjoyable and efficient.
+
+### Key Features:
+
+1. Comprehensive Movie Browsing.
+2. Personalized Reviews and Ratings.
+3. Responsive Design.
+
+### Technologies used ⬇️
+
+React.Js , TailwindCSS , OMDB API.
+
+## This project showcase my skills in Frontend Technology using ReactJS.
 
 ## Available Scripts
 
