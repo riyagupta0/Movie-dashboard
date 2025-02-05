@@ -2,6 +2,9 @@
 
 Introducing Movie Dashboard, your ultimate destination for all things cinema. Dive into a seamless and interactive experience where you can explore, rate, and review your favorite movies. Built with the latest web technologies, this app ensures a responsive and engaging user interface, making your movie discovery journey both enjoyable and efficient.
 
+## Visit Here:
+https://movie-dashboard-app-liart.vercel.app/
+
 ### Key Features:
 
 1. Comprehensive Movie Browsing.
